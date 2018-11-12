@@ -68,13 +68,17 @@
             android:textSize="18sp" />
 
     </LinearLayout>
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="200dp">
     <TextView
+        android:paddingTop="10dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textSize="20sp"
         android:hint="lolololo"
         android:id="@+id/count"/>
-
+   </ScrollView>
     <Button
         android:id="@+id/ok"
         android:layout_width="match_parent"

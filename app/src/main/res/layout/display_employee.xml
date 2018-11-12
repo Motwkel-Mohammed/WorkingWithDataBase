@@ -25,5 +25,6 @@
             android:paddingLeft="15dp"
             android:paddingTop="5dp"
             android:text="salary" />
+
     </LinearLayout>
 </LinearLayout>
