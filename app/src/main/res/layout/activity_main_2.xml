@@ -2,8 +2,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/list"
     android:layout_width="match_parent"
+    android:background="#1aa60000"
     android:layout_height="match_parent"
     tools:context="com.example.koli.database.Main_Activity2">
 
 </ListView>
+
 

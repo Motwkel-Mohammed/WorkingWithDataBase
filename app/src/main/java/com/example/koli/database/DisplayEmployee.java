@@ -10,7 +10,7 @@ public class DisplayEmployee {
     private String salary;
 
 
-    public DisplayEmployee(String name, String salary) {
+    public DisplayEmployee(String name, String salary ) {
         this.name = name;
         this.salary = salary;
     }
@@ -18,6 +18,7 @@ public class DisplayEmployee {
     public String getName() {
         return name;
     }
+
 
     public String getSalary() {
         return salary;

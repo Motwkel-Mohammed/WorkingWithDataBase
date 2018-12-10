@@ -2,11 +2,11 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
-    <item android:title="insert_employee"
-        android:id="@+id/insert_employee"
+    <item android:title="Show Employees"
+        android:id="@+id/show_employees_info"
         app:showAsAction="never"/>
 
-    <item android:title="About us"
+    <item android:title="About Us"
         android:id="@+id/about_us"
         app:showAsAction="never"/>
 

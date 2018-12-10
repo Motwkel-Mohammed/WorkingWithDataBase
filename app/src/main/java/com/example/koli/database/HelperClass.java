@@ -17,7 +17,7 @@ public class HelperClass extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "employee.dp";
 
-    private static final int DATABASE_VERSION = 2;
+    private static final int DATABASE_VERSION = 3;
 
     String CREATE_TABLE = "CREATE TABLE " + Contract.TABLE_NAME + " ("
             + Contract._ID + " INTEGER PRIMARY KEY AUTOINCREMENT, "
